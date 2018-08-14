@@ -1,2 +1,0 @@
-# AutomaticControl
-Automatic Control lessons
